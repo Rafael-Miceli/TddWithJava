@@ -41,11 +41,6 @@ public class ArabicToRoman {
             result += V;
             num -= 5;
         }
-        if (num == 4)
-        {
-            result += I + V;
-            num -= 4;
-        }
         return result + checkI(num);
     }
 
