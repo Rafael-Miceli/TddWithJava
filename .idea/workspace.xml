@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8562f09-00b7-4b33-a46d-ab0db991a830" name="Default" comment="Merge branch 'ArabicToRomanWithUnitTests'&#10;&#10;Conflicts:&#10;&#9;.idea/workspace.xml&#10;">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/rafaelmiceli/TddWithJava/AzureCloudTable.java" afterPath="$PROJECT_DIR$/src/com/rafaelmiceli/TddWithJava/AzureCloudTable.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/rafaelmiceli/TddWithJava/CloudTable.java" afterPath="$PROJECT_DIR$/src/com/rafaelmiceli/TddWithJava/CloudTable.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/rafaelmiceli/TddWithJava/Main.java" afterPath="$PROJECT_DIR$/src/com/rafaelmiceli/TddWithJava/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TddWithJava.iml" afterPath="$PROJECT_DIR$/TddWithJava.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="f8562f09-00b7-4b33-a46d-ab0db991a830" name="Default" comment="" />
     <ignored path="TddWithJava.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -33,21 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/rafaelmiceli/TddWithJava/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.55189455" vertical-offset="668" max-vertical-offset="1275">
-              <caret line="59" column="21" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="668" max-vertical-offset="1275">
+              <caret line="62" column="39" selection-start-line="62" selection-start-column="39" selection-end-line="62" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AzureCloudTable.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="AzureCloudTable.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/rafaelmiceli/TddWithJava/AzureCloudTable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="494" max-vertical-offset="1088">
-              <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+            <state vertical-scroll-proportion="0.41582492" vertical-offset="314" max-vertical-offset="1088">
+              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -558,7 +551,7 @@
       <workItem from="1425830370053" duration="2066000" />
       <workItem from="1425945317512" duration="2536000" />
       <workItem from="1425988685292" duration="89000" />
-      <workItem from="1425988793060" duration="2316000" />
+      <workItem from="1425988793060" duration="2528000" />
     </task>
     <task id="LOCAL-00001" summary="With bug in number 4 conversion">
       <created>1425830576387</created>
@@ -576,11 +569,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10685000" />
+    <option name="totallyTimeSpent" value="10897000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -838,16 +831,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/rafaelmiceli/TddWithJava/AzureCloudTable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="494" max-vertical-offset="1088">
-          <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/rafaelmiceli/TddWithJava/ArabicToRomanTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="354" max-vertical-offset="1258">
@@ -860,9 +843,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/rafaelmiceli/TddWithJava/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.55189455" vertical-offset="668" max-vertical-offset="1275">
-          <caret line="59" column="21" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="668" max-vertical-offset="1275">
+          <caret line="62" column="39" selection-start-line="62" selection-start-column="39" selection-end-line="62" selection-end-column="39" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/rafaelmiceli/TddWithJava/AzureCloudTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41582492" vertical-offset="314" max-vertical-offset="1088">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
