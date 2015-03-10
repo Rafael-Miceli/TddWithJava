@@ -2,10 +2,6 @@ package com.rafaelmiceli.TddWithJava;
 
 import com.microsoft.azure.storage.*;
 import com.microsoft.azure.storage.table.*;
-import com.microsoft.azure.storage.table.TableQuery.*;
-
-import java.net.URISyntaxException;
-import java.security.InvalidKeyException;
 
 /**
  * Created by rafael.miceli on 09/03/2015.
