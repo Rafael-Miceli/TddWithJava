@@ -10,8 +10,8 @@ public class AzureCloudTable implements CloudTable {
 
     public final String storageConnectionString =
             "DefaultEndpointsProtocol=http;" +
-                    "AccountName=tddwithjava;" +
-                    "AccountKey=FHB8Ez9yjqUlfzmZzC/rRfqm2hAQ4OeIKZzKQeZYdGvxD4Dayiq9g55D9PVVKhvKvDyHI9Hxogswp0l5IzhyyQ==";
+                    "AccountName=Your-Account-Name;" +
+                    "AccountKey=Your-Account-Key";
 
     public AzureCloudTable() {
         try {
@@ -19,7 +19,7 @@ public class AzureCloudTable implements CloudTable {
 
             CloudTableClient cloudTableClient = cloudStorageAccount.createCloudTableClient();
 
-            String tableName = "people";
+            String tableName = "your-table-name";
             com.microsoft.azure.storage.table.CloudTable cloudTable = new com.microsoft.azure.storage.table.CloudTable(tableName, cloudTableClient);
             cloudTable.createIfNotExists();
         }
