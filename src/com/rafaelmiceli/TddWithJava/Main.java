@@ -61,7 +61,7 @@ public class Main {
     }
 
     private void readFromCloudTable() {
-        String result = _cloudTable.getById("id");
+        String result = _cloudTable.getTableName();
 
         System.out.println(result);
     }
